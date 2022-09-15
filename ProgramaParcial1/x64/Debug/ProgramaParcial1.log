@@ -1,0 +1,10 @@
+﻿  ProgramaParcial1.cpp
+C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\ProgramaParcial1\ProgramaParcial1\Triangule.h(14,7): warning C4101: 'a': variable local sin referencia
+C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\ProgramaParcial1\ProgramaParcial1\Circle.h(18,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\ProgramaParcial1\ProgramaParcial1\Circle.h(52,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  inputManager.cpp
+C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\ProgramaParcial1\ProgramaParcial1\Triangule.h(14,7): warning C4101: 'a': variable local sin referencia
+C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\ProgramaParcial1\ProgramaParcial1\Circle.h(18,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\ProgramaParcial1\ProgramaParcial1\Circle.h(52,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  ProgramaParcial1.vcxproj -> C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\ProgramaParcial1\x64\Debug\ProgramaParcial1.exe
